@@ -2203,6 +2203,7 @@
 
 			#header h1 span {
 				font-weight: 300;
+				text-transform: none;
 			}
 
 		#header nav {
